@@ -1,0 +1,28 @@
+* {
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace
+}
+
+h3 {
+    color: rgb(37, 35, 44);
+}
+
+h3 b:hover {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+  color: transparent;
+}
+
+#Titulo1 {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+  color: transparent;
+}
+
+#firma {
+    font-size: 30px;
+    font-family: 'Freehand', cursive;
+}
+
+/* #firma {
+    font-size: 30px;
+    font-family: 'Freehand', cursive;
+} */
